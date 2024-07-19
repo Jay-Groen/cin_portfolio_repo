@@ -59,11 +59,11 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>This is second page content.</p>
+            <p>This is the page about home.</p>
         </section>
         <section id="about">
             <h2>About</h2>
-            <p>This is the about page content, but it is being build.</p>
+            <p>This is page about about</p>
         </section>
         <section id="services">
             <h2>Services</h2>
