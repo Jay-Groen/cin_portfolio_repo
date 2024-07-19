@@ -59,19 +59,19 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>This is the home page content.</p>
+            <p>This is second page content.</p>
         </section>
         <section id="about">
             <h2>About</h2>
-            <p>This is the about page content.</p>
+            <p>This is the about page content, but it is being build.</p>
         </section>
         <section id="services">
             <h2>Services</h2>
-            <p>This is not the service page content.</p>
+            <p>There won't be a service page content.</p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>This is the contact page content.</p>
+            <p>This is the contact page content for people who like to call.</p>
         </section>
     </main>
     <footer>
